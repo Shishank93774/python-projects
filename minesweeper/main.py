@@ -12,8 +12,6 @@ class TextColor:
     YELLOW = "\033[0;33m"
     BLUE = "\033[0;34m"
     PURPLE = "\033[0;35m"
-    CYAN = "\033[0;36m"
-    WHITE = "\033[0;37m"
 
 class Board:
     def __init__(self, size):
