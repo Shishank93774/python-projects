@@ -2,3 +2,5 @@ venv
 temp.py
 .idea
 names.txt
+.gitignore
+__pycache__
